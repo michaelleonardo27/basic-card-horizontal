@@ -57,6 +57,7 @@ h3{
   font-weight: 400;
   text-align: center;
   position: relative; 
+  font-size: 40px;
   top: 100px;
 }
 /* How links are styled on page load and also after a link has been visited */
